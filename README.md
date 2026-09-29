@@ -20,6 +20,6 @@
 
 ### 📈 GitHub Analytics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Soumya318&show_icons=true&theme=radial" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Soumya318&show_icons=true&theme=radial&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumya318&layout=compact&theme=radial" width="48%" />
 </p>
